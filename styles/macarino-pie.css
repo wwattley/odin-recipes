@@ -1,0 +1,28 @@
+* {
+  background-color: #0d0930;
+  color: white;
+  line-height: 2;
+}
+
+h1,
+h2,
+h3,
+img {
+  border-style: solid;
+  border-color: bisque;
+  text-align: center;
+}
+
+img {
+  width: 500px;
+}
+
+.description {
+  text-align: center;
+  margin: 36px;
+}
+
+.ingredients,
+.steps {
+  margin: 36px;
+}
